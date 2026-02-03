@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/week-3/item-list.ts" , "app/week-3/item-list.tx" ],
   "exclude": ["node_modules"]
 }
